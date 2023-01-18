@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleItems>
+    <RedItems>
+       <Item>arme de poing</Item>
+       <Item>bang</Item>
+       <Item>malette heroine</Item>
+       <Item>malette de meth</Item>
+       <Item>malette de cocaine</Item>
+       <Item>plusieurs sachets de marijuana</Item>
+       <Item>un sachet de champignons</Item>
+       <Item>plusieurs kilos de meth</Item>
+       <Item>plusieurs kilos heroine</Item>
+       <Item>plusieurs kilos de cocaine</Item>
+       <Item>nunchakus</Item>
+       <Item>silencieux de pistolet</Item>
+       <Item>bombe improviser</Item>
+       <Item>plusieurs grenades</Item>
+       <Item>fusil automatique AR15</Item>
+       <Item>sniper</Item>
+       <Item>fusil a pompe</Item>
+    </RedItems>
+    <YellowItems>
+       <Item>cutter</Item>
+       <Item>plusieurs telephones</Item>
+       <Item>plusieurs bombes de peintures</Item>
+       <Item>equipement coupe verre</Item>
+       <Item>plusieurs cartouches de munitions</Item>
+       <Item>sachet de fertilisant</Item>
+       <Item>sac de sport plein de fric</Item>
+       <Item>malette pleine de billet de 100</Item>
+       <Item>masque de clown</Item>
+       <Item>habit de clown</Item>
+       <Item>crane humain</Item>
+       <Item>tache de sang</Item>
+       <Item>sac plein de fric</Item>
+       <Item>bouteille avec opiaces</Item>
+       <Item>bouteille de morphine</Item>
+       <Item>arbalete</Item>
+       <Item>hachette</Item>
+       <Item>marteau</Item>
+       <Item>couteau de cuisine</Item>
+       <Item>tronconneuse</Item>
+       <Item>hache</Item>
+       <Item>pied de biche</Item>
+       <Item>katana</Item>
+       <Item>samurai</Item>
+       <Item>poing americain</Item>
+       <Item>batte de baseball</Item>
+       <Item>machette</Item>
+       <Item>bombe lacrymogene</Item>
+       <Item>tazer</Item>
+       <Item>matraque</Item>
+       <Item>pillules inconnus</Item>
+       <Item>sachet contenant poudre brune</Item>
+       <Item>bouteille contenant liquide clair</Item>
+       <Item>contenant avec residus liquide</Item>
+       <Item>sac de sport remplit de sachet de poudre blanche</Item>
+       <Item>poudre blanche</Item>
+       <Item>poudre marron</Item>
+       <Item>sachet avec residus de poudre noire</Item>
+       <Item>flacon avec residus poudre blanche</Item>
+       <Item>papiers buvards perforers</Item>
+       <Item>2 sachets avec residus poudre marron</Item>
+       <Item>billet couvert de poudre blanche</Item>
+       <Item>sachet de pillules inconnues</Item>
+       <Item>sachet de comprimers inconnus</Item>
+       <Item>sachet de capsules inconnues</Item>
+       <Item>papiers buvards</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item>lampe torche</Item>
+       <Item>serviette de plage</Item>
+       <Item>ballon de foot</Item>
+       <Item>jerrycan</Item>
+       <Item>prothese</Item>
+       <Item>bouteille eau de javel</Item>
+       <Item>sacs de courses</Item>
+       <Item>boule de bowling</Item>
+       <Item>raquette de tennis</Item>
+       <Item>raquette de badminton</Item>
+       <Item>violon</Item>
+       <Item>ballon de basket</Item>
+       <Item>ballon de rugby</Item>
+       <Item>ballon de foot</Item>
+       <Item>urne de cendres</Item>
+       <Item>paire de chaussures</Item>
+       <Item>paire de sandales</Item>
+       <Item>pelle</Item>
+       <Item>macbook pro</Item>
+       <Item>malette</Item>
+       <Item>linge sale</Item>
+       <Item>casque de moto</Item>
+       <Item>sac orange</Item>
+       <Item>grille pain</Item>
+       <Item>gel hydro alcolique</Item>
+       <Item>mousquetons</Item>
+       <Item>costume haloween</Item>
+       <Item>chapeau de cowboy</Item>
+       <Item>chapeau</Item>
+       <Item>sac de pommes</Item>
+       <Item>bouteille de coca</Item>
+    </GreenItems>
+</VehicleItems>

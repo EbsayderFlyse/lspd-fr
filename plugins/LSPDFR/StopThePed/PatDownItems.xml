@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatDownItems>
+    <RedItems>
+       <Item>arme de poing</Item>
+       <Item>petit revolver</Item>
+       <Item>grenade</Item>
+       <Item>sachet de marijuana</Item>
+       <Item>petit sachet de cocaine</Item>
+       <Item>sachet de meth</Item>
+       <Item>sachet heroine</Item>
+       <Item>fentanyl</Item>
+       <Item>pillules illegales</Item>
+       <Item>PCP</Item>
+    </RedItems>
+    <YellowItems>
+       <Item>seringue utiliser</Item>
+       <Item>couteau de poche</Item>
+       <Item>cutter</Item>
+       <Item>pipe de meth bruler</Item>
+       <Item>poing americain</Item>
+       <Item>bombe lacrymogene</Item>
+       <Item>cuillere rouiller</Item>
+       <Item>pied de biche</Item>
+       <Item>masque de clown</Item>
+       <Item>cagoule</Item>
+       <Item>matraque</Item>
+       <Item>tournevis</Item>
+       <Item>petite bouteille contenant un liquide claire</Item>
+       <Item>cuillere avec residus de poudre noire</Item>
+       <Item>pipe de meth avec residus foncer</Item>
+       <Item>pipe de meth avec residus marrons</Item>
+       <Item>bang avec residus poudre blanche</Item>
+       <Item>pillules inconnus</Item>
+       <Item>trois pillules inconnus</Item>
+       <Item>comprimers dans une boite en plastique</Item>
+       <Item>capsules dans une boite en plastique</Item>
+       <Item>billet couvert de poudre blanche</Item>
+       <Item>sac de crystal clair</Item>
+       <Item>sac de poudre marron</Item>
+       <Item>sac de pillules inconnus</Item>
+       <Item>sac de poudre blanche</Item>
+       <Item>sac de crystal bleu</Item>
+       <Item>sac de poudre foncer</Item>
+       <Item>bouteille contenant un liquide inconnu</Item>
+       <Item>plusieurs papiers buvards</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item>portefeuille</Item>
+       <Item>cles</Item>
+       <Item>telephone</Item>
+       <Item>appareil photo</Item>
+       <Item>magazine</Item>
+       <Item>vetements</Item>
+       <Item>sextoy</Item>
+       <Item>vibromasseur</Item>
+       <Item>carte postale</Item>
+       <Item>ticket de stationnement</Item>
+       <Item>cigare</Item>
+       <Item>preservatif user</Item>
+       <Item>preservatif</Item>
+       <Item>lampe torche</Item>
+       <Item>cles de voiture</Item>
+       <Item>jumelles</Item>
+       <Item>paquet de cigarette</Item>
+       <Item>iphone</Item>
+       <Item>stylo</Item>
+       <Item>pinceau</Item>
+       <Item>briquet</Item>
+       <Item>allumettes</Item>
+       <Item>ticket avion</Item>
+       <Item>lunette de soleil</Item>
+       <Item>sucette</Item>
+       <Item>ruban adhesif</Item>
+    </GreenItems>
+</PatDownItems>

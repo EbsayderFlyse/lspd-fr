@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomQuestions>
+  <CustomQuestion>
+    <Question>Vous habitez dans les environs ?</Question>
+    <Answers>
+      <Answer>Oui monsieur, je vis avec ma grand mere</Answer>
+      <Answer>Pourquoi vous etes si curieux ?</Answer>
+      <Answer>Non je vis pas ici</Answer>
+      <Answer>Non je vis dans le nord</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestion>
+    <Question>Etes vous rechercher ?</Question>
+    <Answers>
+      <Answer>Peut etre</Answer>
+      <Answer>Je pense etre rechercher dans une autre ville</Answer>
+      <Answer>Pas que je sache</Answer>
+      <Answer>Verifiez par vous meme</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestion>
+    <Question>Souhaitez vous deposer plainte ?</Question>
+    <Answers>
+      <Answer>Je ne sais pas..</Answer>
+      <Answer>Oui</Answer>
+      <Answer>Non</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestionGroup name="Questions Alcool">
+    <CustomQuestion>
+      <Question>Quand avez vous bu pour la derniere fois ?</Question>
+      <Answers>
+        <Answer>Quelques heures environs</Answer>
+        <Answer>Je ne me souviens pas</Answer>
+        <Answer>Il y a 1 heure</Answer>
+        <Answer>Hier</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Combien de verre vous avez bu ?</Question>
+      <Answers>
+        <Answer>Un verre de vin seulement</Answer>
+        <Answer>2 canettes de bieres</Answer>
+        <Answer>Une bouteille de vodka</Answer>
+        <Answer>J'ai juste bu un fond de verre</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Pourquoi vous avez les yeux rouges ?</Question>
+      <Answers>
+        <Answer>Je suis fatiguer, je travail 14 heures par jours</Answer>
+        <Answer>Je pense que de la poussiere m'est venu dans les yeux</Answer>
+        <Answer>Vous pensez que j'ai bu ?</Answer>
+        <Answer>Mes yeux sont toujours rouges, je pense que c'est normal</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Questions Vehicule">
+    <CustomQuestion>
+      <Question>Le vehicule vous appartient ?</Question>
+      <Answers>
+        <Answer>Oui, c'est le mien</Answer>
+        <Answer>J'ai emprunter la voiture de ma mere</Answer>
+        <Answer>Bien sure pourquoi demandez vous ?</Answer>
+        <Answer>C'est ma voiture, elle est belle hein ?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Vous savez que la carte grise est expirer ?</Question>
+      <Answers>
+        <Answer>Je suis desoler j'ai oublier de la renouveler</Answer>
+        <Answer>Vraiment ? je ne vous crois pas</Answer>
+        <Answer>Vous etes sure ? je l'est renouveler le mois dernier</Answer>
+        <Answer>Desoler monsieur, je vais le faire au plus vite</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Vous savez que l'assurance est expirer ?</Question>
+      <Answers>
+        <Answer>Je suis desoler j'ai oublier de la renouveler</Answer>
+        <Answer>Vraiment ? je ne vous crois pas</Answer>
+        <Answer>Vous etes sure ? je l'est renouveler le mois dernier</Answer>
+        <Answer>Desoler monsieur, je vais le faire au plus vite</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Questions Drogue">
+    <CustomQuestion>
+      <Question>C'est quoi cette poudre blanche ?</Question>
+      <Answers>
+        <Answer>Je ne sais pas de quoi vous parlez</Answer>
+        <Answer>Je pense que c'est juste du sel</Answer>
+        <Answer>De la cocaine je pense, je suis pas sure</Answer>
+        <Answer>Vous pensez que c'est quoi ?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>C'est quoi ce crystal blanc ?</Question>
+      <Answers>
+        <Answer>Je ne sais pas de quoi vous parlez</Answer>
+        <Answer>Je pense que c'est juste du sucre</Answer>
+        <Answer>De la meth peut etre, je suis pas sure</Answer>
+        <Answer>Vous pensez que c'est quoi ?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Ce sont des marques d'aiguilles sur votre bras ?</Question>
+      <Answers>
+        <Answer>Ce sont des piqures d'abeilles</Answer>
+        <Answer>C'est des marques de rayons UV</Answer>
+        <Answer>Vous pensez que c'est quoi ?</Answer>
+        <Answer>Oui, j'en ai aussi sur l'autre bras</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Questions Arme">
+    <CustomQuestion>
+      <Question>Cette arme est voler ?</Question>
+      <Answers>
+        <Answer>Je ne sais pas, je l'ai acheter dans une armurerie</Answer>
+        <Answer>Pourquoi vous regardez pas dans vos fichiers ?</Answer>
+        <Answer>Non elle est legale, j'ai la facture</Answer>
+        <Answer>Je ne pense pas, je l'ai emprunter a un ami</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Vous n'avez pas le permis de port d'armes ?</Question>
+      <Answers>
+        <Answer>J'en ai pas besoin</Answer>
+        <Answer>C'est bizarre, je l'ai obtenu la semaine derniere</Answer>
+        <Answer>Je n'ai pas le temps de le passer</Answer>
+        <Answer>C'est seulement pour les riches</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Vous avez une arme sur vous ?</Question>
+      <Answers>
+        <Answer>Non, je n'aime pas les armes</Answer>
+        <Answer>Vous avez qu'a me fouiller</Answer>
+        <Answer>Oui j'en ai plein</Answer>
+        <Answer>Peut etre, j'ai oublier</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+</CustomQuestions>

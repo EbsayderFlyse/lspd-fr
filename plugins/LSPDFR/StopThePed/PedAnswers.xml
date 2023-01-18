@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PedAnswers>
+  <Drinking question="Vous avez bu ?">
+      <Positive>
+          <Answer>Un shot de vodka il y a 1 heure</Answer>
+          <Answer>J'ai bu 6 packs de bieres</Answer>
+          <Answer>Oui, j'ai bu des bieres</Answer>
+          <Answer>Un fond de verre de vin seulement</Answer>
+          <Answer>Bien sure je dois rechauffer mon corps</Answer>
+          <Answer>L'alcool me rechauffe</Answer>
+          <Answer>J'adore l'alcool !</Answer>
+          <Answer>J'ai besoin de boire pour rester concentrer</Answer>
+          <Answer>J'ai pas besoin de repondre a cela</Answer>
+          <Answer>J'ai le droit de rien dire</Answer>
+      </Positive>
+      <Negative>
+          <Answer>Non, je n'ai rien bu</Answer>
+          <Answer>L'alcool n'est pas bon pour moi</Answer>
+          <Answer>Je n'ai jamais bu de ma vie</Answer>
+          <Answer>Je suis vif comme un aigle, je bois pas d'alcool</Answer>
+          <Answer>Non rien du tout</Answer>
+          <Answer>Je suis sobre depuis 6 mois</Answer>
+          <Answer>Vous sentez de l'alcool sur moi ?</Answer>
+          <Answer>Non</Answer>
+      </Negative>
+  </Drinking>
+  <Drugs question="Vous avez consommer de la drogue recemment ?">
+      <Positive>
+          <Answer>Oui pour mon traitement medical</Answer>
+          <Answer>Je prend des pillules prescrites par mon medecin</Answer>
+          <Answer>J'en consomme pour le plaisir</Answer>
+          <Answer>De temps en temps</Answer>
+          <Answer>C'est bon pour le bien etre</Answer>
+          <Answer>Je me sens bien maintenant..</Answer>
+          <Answer>J'ai besoin de repondre a cela ?</Answer>
+          <Answer>J'ai le droit de rien dire</Answer>
+      </Positive>
+      <Negative>
+          <Answer>Non, la drogue rend malade</Answer>
+          <Answer>Jamais ! je ne veux pas mourir</Answer>
+          <Answer>Je n'en ai jamais consommer</Answer>
+          <Answer>J'ai l'air d'un toxico ?</Answer>
+          <Answer>Je suis clean depuis 1 an</Answer>
+          <Answer>Non</Answer>
+          <Answer>Pas d'argent.. pas de drogue</Answer>
+      </Negative>
+  </Drugs>
+  <IllegalItem question="Vous n'avez rien d'illegal sur vous ?">
+      <Answer>Non monsieur, je suis sans danger</Answer>
+      <Answer>Je suis un bon citoyen</Answer>
+      <Answer>Je ne veux pas aller en prison</Answer>
+      <Answer>Peut etre que j'ai quelques trucs</Answer>
+      <Answer>Je ne sais pas, regardez par vous meme</Answer>
+      <Answer>Non</Answer>
+      <Answer>Rien d'illegal sur moi</Answer>
+      <Answer>J'ai totalement oublier</Answer>
+      <Answer>Vous n'avez pas le droit de me toucher</Answer>
+      <Answer>Peut etre que oui, peut etre que non</Answer>
+  </IllegalItem>
+  <PedDoing question="Que faites vous ?">
+      <Answer>Je traine</Answer>
+      <Answer>J'ai besoin d'air frais</Answer>
+      <Answer>Je relaxe mon esprit</Answer>
+      <Answer>J'attends un ami</Answer>
+      <Answer>C'est pas vos affaires !</Answer>
+      <Answer>Occupez vous de vos affaires</Answer>
+      <Answer>Qu'est ce que sa peut te faire ?</Answer>
+      <Answer>J'ai pas besoin de repondre a cela</Answer>
+      <Answer>Je choisis de pas repondre</Answer>
+      <Answer>J'ai le droit de rien dire</Answer>
+  </PedDoing>
+  <PedFrom question="D'ou venez vous ?">
+      <Answer>De chez moi</Answer>
+      <Answer>De chez mon ami</Answer>
+      <Answer>Du travail</Answer>
+      <Answer>Du magasin</Answer>
+      <Answer>De l'enfer !</Answer>
+      <Answer>Je reviens de l'hopital</Answer>
+      <Answer>J'ai le droit de rien dire</Answer>
+      <Answer>J'ai le droit de garder le silence</Answer>
+  </PedFrom>
+  <PedTo question="Vous allez ou ?">
+      <Answer>Je rentre chez moi</Answer>
+      <Answer>Je suis sur la route pour rentrer chez moi</Answer>
+      <Answer>Je vais travailler</Answer>
+      <Answer>Je vais au magasin</Answer>
+      <Answer>Je vais voir un ami</Answer>
+      <Answer>Je vais chez un ami</Answer>
+      <Answer>La ou j'ai envie d'aller</Answer>
+      <Answer>Vous voulez pas savoir</Answer>
+      <Answer>J'ai le droit de rien dire</Answer>
+  </PedTo>
+</PedAnswers>
